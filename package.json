@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dunghenry/TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dunghenry/TypeScript/issues"
+  },
+  "homepage": "https://github.com/dunghenry/TypeScript#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
